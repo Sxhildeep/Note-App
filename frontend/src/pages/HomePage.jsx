@@ -1,5 +1,5 @@
 
-import Navbar from "../components/navbar";
+import Navbar from "../components/Navbar";
 import React, { useEffect } from "react"
 import RateLimiter from "../components/ratelimiter"
 
