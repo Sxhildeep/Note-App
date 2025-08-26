@@ -1,8 +1,8 @@
 import React from 'react'
 import { Routes, Route, Link } from 'react-router-dom'
 import Home from './pages/HomePage'
-import CreatePage from './pages/createPage'
-import NoteDetails from './pages/noteDetails'
+import CreatePage from './pages/CreatePage'
+import NoteDetails from './pages/NoteDetails'
 function App() {
   
   return (
